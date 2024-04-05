@@ -12,6 +12,10 @@ The app is designed to playback video content and text(books).
   <li>Order of content sections can be changed as well as sort direction with Firebase remote config</li>
 </ol>
 
+<img height="300" title="a title" alt="Alt text" src="https://github.com/demidovpeter/HollyWaterCinema/assets/34139107/cc216979-79bf-497c-b636-91c453498baf">
+<img height="300" title="a title" alt="Alt text" src="https://github.com/demidovpeter/HollyWaterCinema/assets/34139107/e8767b8c-83bb-4554-a09d-34f49dcbe9a0">
+<img height="300" title="a title" alt="Alt text" src="https://github.com/demidovpeter/HollyWaterCinema/assets/34139107/76652137-2a26-4e52-8f74-6b048bedf7eb">
+
 # Setup
 
 Firebase Remote Config required `google-service.json` file to be generated and copied into the project 
