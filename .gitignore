@@ -64,3 +64,6 @@ yarn-error.log
 
 # testing
 /coverage
+
+# Google service config
+google-services.json
